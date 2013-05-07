@@ -1,0 +1,7 @@
+.idea
+.idea_modules
+.vagrant
+Cheffile.lock
+chef/cookbooks
+chef/tmp
+target
